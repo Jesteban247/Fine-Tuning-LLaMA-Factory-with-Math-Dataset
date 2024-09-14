@@ -52,7 +52,7 @@ Here’s a comparison of **model responses** before and after fine-tuning with a
   If Jungkook is in 5th place, then 4 people crossed the finish line faster than him.
   ```
 
-> **Leave space for a video demo** showcasing queries and responses before and after fine-tuning.
+https://github.com/user-attachments/assets/44c20c5a-b812-4e88-aea6-8bb6891e8d44
 
 ---
 
